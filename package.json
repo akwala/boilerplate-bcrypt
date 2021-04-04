@@ -16,7 +16,7 @@
 		"body-parser": "^1.16.0",
 		"mongodb": "^2.2.22",
 		"helmet": "^3.4.0",
-		"bcrypt": *,
+		"bcrypt": "*",
 	},
 	"repository": {
 		"type": "git",
